@@ -123,7 +123,7 @@ For any size N, the range of numbers an integer can represent in decimal is:
 
 <div style="text-align: center">
 
-*Signed*: -2<sup>N/2</sup> to 2<sup>N/2 - 1</sup>
+*Signed*: -2<sup>N/2</sup> to 2<sup>N/2</sup> - 1
 
 *Unsigned* 0 to 2<sup>N</sup> - 1
 
