@@ -482,10 +482,10 @@ To reference any type, variable, or function contained within a namespace, you c
 ```C++
 helloWorld::words earth = "Hello Earth!";
 helloWorld::printHelloWorld();
-std::cout << hellowWorld::myFirstProgram << std::endl << earth;
+std::cout << helloWorld::myFirstProgram << std::endl << earth;
 
-// Output: Hello World!Hellow World!
-//         Hellow Earth!
+// Output: Hello World!Hello World!
+//         Hello Earth!
 ```
 <div style="text-align: center"> Figure 12b - Namespace Use </div>
 
