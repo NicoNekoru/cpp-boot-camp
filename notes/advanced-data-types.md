@@ -527,11 +527,11 @@ std::string myFirstProgram = "My First Program";
 // This is fine now, this variable has a different scope than 
 
 helloWorld::printHelloWorld();
-std::cout << std::endl << hellowWorld::myFirstProgram << std::endl << earth << std::endl << myFirstProgram;
+std::cout << std::endl << helloWorld::myFirstProgram << std::endl << earth << std::endl << myFirstProgram;
 
 // Output: Hello World!
-//         Hellow World!
-//         Hellow Earth!
+//         Hello World!
+//         Hello Earth!
 //         My First Program 
 
 ```
