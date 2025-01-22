@@ -56,7 +56,7 @@ Term|Defintion
 Most Significant Byte (MSB) | The byte that defines the beginning of the data
 Least Significant Byte (LSB) | The byte that defines the end of the data
 Little Endian | The data is organized from right to left, so the LSB is to the left and the MSB is to the right
-Big Endian | The data is organized from left to right, so the MSB is to the left and the MSB is to the right
+Big Endian | The data is organized from left to right, so the MSB is to the left and the LSB is to the right
 
 <br/>
 
